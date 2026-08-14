@@ -2,7 +2,7 @@
 
 ## Why This Matters
 
-Clients run services on Linux servers. If a database crashes, a config gets corrupted, or a deployment goes wrong — they need a way to restore fast. A manual `cp` is not a backup strategy. A **scripted, scheduled, and rotated** backup is.
+Clients run services on Linux servers. If a database crashes, a config gets corrupted, or a deployment goes wrong - they need a way to restore fast. A manual `cp` is not a backup strategy. A **scripted, scheduled, and rotated** backup is.
 
 ---
 
